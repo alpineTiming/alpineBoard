@@ -1,2 +1,2 @@
-# alpineBoard
-The PWA powering alpineTiming's public leaderboard and live results
+## alpineBoard
+### _The PWA powering alpineTiming's public leaderboard and live results_
